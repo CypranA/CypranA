@@ -1,4 +1,4 @@
-![](img/)
+![](img/github-intro.gif)
 
 # Hello World! 👋
 - 👋 Hi, I’m @CypranA
