@@ -1,3 +1,6 @@
+![](img/github-intro.gif)
+
+# Hello World! 👋
 - 👋 Hi, I’m @CypranA
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python
