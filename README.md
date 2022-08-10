@@ -2,7 +2,11 @@
 
 # Hello World! 👋
 
-### I'm Cypran and welcome to my GitHub profile! 👨‍💻
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://my.bio/cypran/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cypranakubude/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cypran/)
+
+### I'm [Cypran](https://www.linkedin.com/in/cypranakubude/) and welcome to my GitHub profile! 👨‍💻
 
 - 👩‍🎓 Before switching to Data Analyst/Science, I was a finance and digital transformation enthusiast who got a Bachelor's Degree in Business Administration (Banking and Finance).
 - ✍️ Currently pursuing a Master's Degree in International Business with a speciality in Digital Transformation Management from Cologne Business School. 
