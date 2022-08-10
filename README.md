@@ -7,7 +7,7 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cypran/)
 
 ### I'm [Cypran](https://www.linkedin.com/in/cypranakubude/) and welcome to my GitHub profile! 👨‍💻
-
+🖤 Fun facts:
 - 👩‍🎓 Before switching to Data Analyst/Science, I was a finance and digital transformation enthusiast who got a Bachelor's Degree in Business Administration (Banking and Finance).
 - ✍️ Currently pursuing a Master's Degree in International Business with a speciality in Digital Transformation Management from Cologne Business School. 
 - 📖 Self-learning through Google Certification Programs and DataCamp to improve my knowledge as a data scientist.
@@ -20,7 +20,10 @@
 ## 🛠 Languages/Tech Stack:
 
 ![](img/tech-stack.png)
-![](img/tech-stack.png)
+<p align="center">
+  <img src=img/tech-stack2.png>
+</p>
+
 #
 ![](img/quote.gif)
 
