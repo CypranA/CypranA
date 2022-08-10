@@ -17,10 +17,10 @@
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me? Email
 ##
-🛠 Languages/Tech Stack:
+## 🛠 Languages/Tech Stack:
 
 ![](img/tech-stack.png)
-
+![](img/tech-stack2.png)
 #
 ![](img/quote.gif)
 
