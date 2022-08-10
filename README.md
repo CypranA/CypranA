@@ -20,7 +20,7 @@
 ## 🛠 Languages/Tech Stack:
 
 ![](img/tech-stack.png)
-![](img/tech-stack2.png)
+![](img/tech-stack.png)
 #
 ![](img/quote.gif)
 
