@@ -27,6 +27,9 @@
 #
 ![](img/quote.gif)
 
+#
+![](https://github.com/CypranA/CypranA/blob/main/data-visualizations/Cyclistic%20Dashboard.png)
+
 <!---
 CypranA/CypranA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
