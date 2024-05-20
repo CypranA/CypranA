@@ -27,7 +27,9 @@
 #
 ![](img/quote.gif)
 
-#
+##
+## 🖼️ Data Visualizations
+
 ![](https://github.com/CypranA/CypranA/blob/main/data-visualizations/Cyclistic%20Dashboard.png)
 
 <!---
