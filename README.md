@@ -1,4 +1,4 @@
-![](img/github-intro.gif)
+![](https://www.canva.com/design/DAFI1WoJqDw/KuOT6t3weG2NhWsPNe63Fg/watch)
 
 # Hello World! 👋
 
